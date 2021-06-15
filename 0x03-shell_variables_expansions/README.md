@@ -1,0 +1,1 @@
+# This directory contanins shell ,init files, variables and expansions
