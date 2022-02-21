@@ -1,12 +1,11 @@
 # 0x19-postmortem
-![I WILL FIND YOU AND I WILL FIX YOU](https://miro.medium.com/max/1400/0*kHoWD7gJ0PC9GmBK.jpg)
 # Issue Summary
-16/02/2022 From 9:15 AM to 10:00 AM UTC+1 all requests for the homepage to our servers got a 404 response
+From 9:15 AM to 10:00 AM GMT+1 20-02-2022 all requests for the homepage to our servers got a 404 response
 
 # Timeline
 - 9:10 AM : Updates push
 - 9:15 AM : Noticing the problem
-- 9:15 AM : Notifying the both front end and backend teams
+- 9:15 AM : Escalate the both front end and backend teams
 - 9:20 AM : Successful change rollback
 - 9:24 AM : Server Restarts begin
 - 9:27 AM : 100% of traffic back online
