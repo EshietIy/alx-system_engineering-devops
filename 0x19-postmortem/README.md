@@ -1,5 +1,7 @@
 # 0x19-postmortem
 # Issue Summary
+
+![What went Wrong](https://images.unsplash.com/photo-1489084917528-a57e68a79a1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 From 9:15 AM to 10:00 AM GMT+1 20-02-2022 all requests for the homepage to our servers got a 404 response
 
 # Timeline
